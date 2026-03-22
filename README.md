@@ -8,7 +8,6 @@ Projekt wykorzystuje wskaźniki wegetacji (VARI, GLI, VIGREEN, NDVI) do śledzen
 
 ## Struktura projektu
 ```
-deforestation-analysis/
  deforestation.py   # główny skrypt analizy
  functions.py       # funkcje pomocnicze
 ```
